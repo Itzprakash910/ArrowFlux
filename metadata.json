@@ -1,0 +1,6 @@
+{
+  "name": "ArrowFlux",
+  "description": "Futuristic 3D puzzle game where glowing arrow paths escape through Classic 2D grids, Arrow Mazes, and full 3D rotating structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
